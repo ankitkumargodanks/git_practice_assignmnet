@@ -16,4 +16,3 @@ if (output=="true"){
 	console.log(n, "is a Prime Number")
 else{
 	console.log(n, "is not a Prime Number")
-}
